@@ -1,6 +1,6 @@
 # Spinny::QuickLambda
 
-Nice lambdas, kind of like what Scala offers.
+Nice lambdas, kind of like what Scala offers. (Name courtesy of [macropy](https://github.com/lihaoyi/macropy#quick-lambdas).
 
 ## Installation
 
