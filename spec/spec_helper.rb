@@ -1,4 +1,4 @@
-require 'spinny/quick_lambda'
+require 'quick_lambda'
 
 require 'minitest/autorun'
 require 'minitest/spec'
